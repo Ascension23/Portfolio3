@@ -1,6 +1,6 @@
 # Portfolio
 
-This is my portfolio page. I will use it to hone my skills and present my abilities and knowledge to potential employers.
+My updated portfolio webpage showing my Projects, resume, and contact information.
 
 ### Webpage
 https://ascension23.github.io/Portfolio/
