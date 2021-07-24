@@ -71,6 +71,9 @@ h2 {
       font-weight: bold;
   }
 
+h6 {
+  color:white;
+}
 footer {
     font-weight: bolder;
     text-align: center;
@@ -158,6 +161,7 @@ a:hover, a:active {
  .work, .workImg {
    height:auto;
    width: 500px !important;
+   font: ;
  }
 
  aside {
