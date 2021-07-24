@@ -106,6 +106,10 @@ footer {
     box-shadow: 10px 5px 5px black;
  }
 
+ #work {
+   border-radius: 20px;
+ }
+
 a:link, a:visited {
     color: white;
     padding: 5px 5px;
@@ -161,7 +165,6 @@ a:hover, a:active {
  .work, .workImg {
    height:auto;
    width: 500px !important;
-   font: ;
  }
 
  aside {
