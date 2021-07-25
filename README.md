@@ -3,10 +3,10 @@
 My updated portfolio webpage showing my Projects, resume, and contact information.
 
 ### Webpage
-https://ascension23.github.io/Portfolio/
+https://ascension23.github.io/Portfolio3/
 
 ### Repository
-https://github.com/Ascension23/Portfolio
+https://github.com/Ascension23/Portfolio3
 
 ### Applications
 https://github.com/Ascension23
